@@ -23,10 +23,10 @@ The currently consists of one function: legacy_peakcat_search
 
 It can be used as follows:
 
-'''
+```
 from jcmtlrsearch import LRSearch
-LRSearch.legacy_peakcat_search( args )
-'''
+LRSearch.legacy_peakcat_search( *args )
+```
 
 This function will take in a catalog of coordinates and cross-reference with the
 Legacy Release Peak Catalogs. The coordinates are required to be input as an
