@@ -38,6 +38,8 @@ including the 2 MOC files and the Legacy Peak Catalog.
 See the [documentation](docs/README.txt) for more information on arguments and
 output.
 
-Also see the test script for an example of how to use the code as well as the
-output (Note you will need to download the MOC files in order to run the test
-script).
+Also see the [test script](Test/) for an example of how to use the code as well
+as the output (Note you will need to download the MOC files in order to run the
+test script).
+
+Also see the astropy [documentation](http://docs.astropy.org/en/stable/api/astropy.coordinates.SkyCoord.html) on using SkyCoord objects, useful once you get used to it!
